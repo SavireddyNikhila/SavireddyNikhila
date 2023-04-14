@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**SavireddyNikhila/SavireddyNikhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working in ZKTeco India
-
+### Hi there 👋 I'm Nikhila Savireddy.
 
 
 # 💻 Tech Stack:
